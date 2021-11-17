@@ -1,0 +1,9 @@
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\bin\Debug\Pratica17-11-21.exe.config
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\bin\Debug\Pratica17-11-21.exe
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\bin\Debug\Pratica17-11-21.pdb
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\obj\Debug\Pratica17-11-21.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\obj\Debug\Pratica17_11_21.Form1.resources
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\obj\Debug\Pratica17_11_21.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\obj\Debug\Pratica17-11-21.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\obj\Debug\Pratica17-11-21.exe
+C:\Users\Alumno\Desktop\Pratica17-11-21\Pratica17-11-21\obj\Debug\Pratica17-11-21.pdb
