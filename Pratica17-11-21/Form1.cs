@@ -24,6 +24,7 @@ namespace Pratica17_11_21
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
+            //Coment. :3
             double Num1 = Convert.ToDouble(txtNum1.Text);
             double Num2 = Convert.ToDouble(txtNum2.Text);
 
