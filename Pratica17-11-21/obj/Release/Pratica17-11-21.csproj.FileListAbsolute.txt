@@ -1,0 +1,10 @@
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\bin\Release\Pratica17-11-21.exe.config
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\bin\Release\Pratica17-11-21.exe
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\bin\Release\Pratica17-11-21.pdb
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\obj\Release\Pratica17-11-21.csproj.AssemblyReference.cache
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\obj\Release\Pratica17_11_21.Form1.resources
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\obj\Release\Pratica17_11_21.Properties.Resources.resources
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\obj\Release\Pratica17-11-21.csproj.GenerateResource.cache
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\obj\Release\Pratica17-11-21.csproj.CoreCompileInputs.cache
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\obj\Release\Pratica17-11-21.exe
+C:\Proyectos\Instalador Csharp\Pratica17-11-21\obj\Release\Pratica17-11-21.pdb
